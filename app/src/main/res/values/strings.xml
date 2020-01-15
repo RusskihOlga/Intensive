@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">DevIntensive</string>
+    <string name="hint_phone">Мобильный телефон</string>
+    <string name="hint_email">E-mail</string>
+    <string name="hint_password">Пароль</string>
+    <string name="hint_github">Репозиторий</string>
+    <string name="hint_vk">Профиль в vk</string>
+    <string name="hint_about_me">О себе</string>
+    <string name="text_phone">+7 923-249-80-22</string>
+    <string name="text_email">russkih.1994@mail.ru</string>
+    <string name="text_github">github.com/RusskihOlga/DevIntensive</string>
+    <string name="text_vk">vk.com/id184049357</string>
+    <string name="text_about_me">Введите информацию о себе. Напишите свои интересы, хобби, принципы жизни</string>
+    <string name="profile_menu">Профиль</string>
+    <string name="contact_menu">Контакты</string>
+    <string name="exit_menu">Выход</string>
+    <string name="user_profile_splash">Изменить фотографию профиля</string>
+    <string name="ser_profile_dialog_gallery">загрузить из галлереи</string>
+    <string name="user_profile_dialog_camera">сделать снимок</string>
+    <string name="user_profile_dialog_cancel">отмена</string>
+    <string name="user_profile_dialog_title">Изменить фотографию профиля</string>
+    <string name="user_profile_choce_message">выберите фото</string>
+    <string name="error_format_phone">Неверный формат. Формат: +x xxx xxx-xx-xx</string>
+    <string name="error_format_email">Неверный формат. Формат: xxx@xx.xx</string>
+    <string name="error_format_path_vk">Неверный формат. Формат: vk.com/xxx</string>
+    <string name="error_format_path_github">Неверный формат. Формат: github.com/xxx</string>
+    <string name="login">ВОЙТИ</string>
+    <string name="forget_password">Забыли пароль?</string>
+    <string name="ff_mediun">sans-serif-medium</string>
+    <string name="ff_regular">sans-serif-regular</string>
+</resources>
